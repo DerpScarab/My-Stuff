@@ -14,3 +14,6 @@ Project Blitz - development planned, sprites drawn on paper
 Project Street - development planned, not started
 Temporary Storage - empty
 Test Class - ready to go
+
+Concepts:
+2DACM: 2D Air Combat Simulator - a multiplayer twin-stick shooter that you fly to and from the combat zone to refuel, reload, and heal
