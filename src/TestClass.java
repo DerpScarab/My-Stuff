@@ -20,12 +20,26 @@ public class TestClass {
 			testMethod1();
 		}
 		
-		if (user == 2){
+		else if (user == 2){
 			testMethod2();
 		}
 		
-		if (user == 3){
+		else if (user == 3){
 			testMethod3();
+		}
+		
+		else if (user == 4){
+			testMethod4();
+		}
+		
+		else if (user == 5){
+			testMethod5();
+		}
+		
+		else if (user>5){
+			System.out.println("Error, please try again");
+			System.out.println("Which method would you like to run?");
+			user = myScanner.nextInt();
 		}
 		
 	}
@@ -40,6 +54,14 @@ public class TestClass {
 	
 	public void testMethod3(){
 		
+	}
+	
+	public void testMethod4(){
+		
+	}
+
+	public void testMethod5(){
+	
 	}
 
 }
