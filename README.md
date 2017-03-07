@@ -14,9 +14,9 @@ Temporary Storage - a place to put code when things go wrong
 Test Class - a method that allows the user to test up to five methods individually
 
 Progress:
-Battleship - development planned, not started
-Project Blitz - development planned, sprites drawn on paper
-Project Street - development planned, not started
-2DACM - development planned, not started
-Temporary Storage - empty
+Battleship - not started
+Project Blitz - sprites drawn on paper
+Project Street - not started
+2DACM - not started
+Temporary Storage - contains a virus
 Test Class - ready to go
