@@ -47,8 +47,8 @@ public class TestClass {
 	}
 	
 	public void testMethod1(){//DO NOT TEST, WILL OPEN WINDOWS FOREVER
+		int count=0;
 		while(true){
-			int count=0;
 			JFrame frame=new JFrame("you just got prank'd");
 			frame.setSize(100,0);
 			count++;
